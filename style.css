@@ -1,0 +1,75 @@
+.body {
+  max-width: 1900px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 86px;
+  line-height: 76px;
+  max-width: 1039px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  align-self: center;
+  margin: 0 auto;
+  margin-top: 15px;
+  
+}
+
+.lower-title {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 40px;
+  margin-bottom: 5px;
+}
+
+.swiper {
+  margin-top: 40px;
+  max-width: 1400px;
+  height: 500px;
+}
+
+.swiper-button-prev {
+  background-image: url(img/arrow-left.png);
+  color: transparent;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+  top: 40%;
+}
+
+.swiper-button-next {
+  background-image: url(img/arrow.png);
+  color: transparent;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+  top: 40%;
+}
+
+.slide__items {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 442px;
+  height: 395px;
+}
+
+.orange-pictures {
+  position: absolute;
+
+}
+
+.cross {
+  top: 15px;
+  right: 398px;
+  width: 30px;
+  height: 30px;
+}
+
+.triangle {
+  top: 190px;
+  left: 226px;
+  width: 30px;
+  height: 30px;
+}
